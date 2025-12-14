@@ -10,5 +10,7 @@
 - [Cairo By Example](https://enitrat.github.io/cairo-by-example/index.html)
 - [Cairo Book](https://www.starknet.io/cairo-book/)
 - [Cairo Playground](https://www.cairo-lang.org/playground/)
+- [Starknet Foundry Book](https://foundry-rs.github.io/starknet-foundry/)
 - [Ask Starknet](https://ask.starknet.io/)
 - [Scaffold Stark](https://scaffoldstark.com/)
+- [Starklings](https://starklings.app/) ([src](https://github.com/shramee/starklings))
