@@ -4,6 +4,7 @@
 
 #[executable]
 fn main() -> u32 {
+    println!("{}", fib(16))
     fib(16)
 }
 
