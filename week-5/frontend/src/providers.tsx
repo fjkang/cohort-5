@@ -4,7 +4,6 @@ import { StarknetProvider } from "./privy-starknet-provider";
 import { ToastContainer } from "react-toastify";
 import {
   avnuApiKey,
-  contractAddress,
   privyAppId,
   privyClientId,
   rpcUrl,
@@ -26,7 +25,6 @@ export function Providers({ children }: ProvidersProps) {
       <StarknetProvider
         config={{
           rpcUrl,
-          contractAddress,
           avnuApiKey,
         }}
       >
